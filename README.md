@@ -12,4 +12,5 @@
 - Redux
 - Mongo DB
 - Strip
+-https://cdnjs.com/
 
