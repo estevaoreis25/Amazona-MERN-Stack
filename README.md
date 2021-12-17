@@ -12,5 +12,7 @@
 - Redux
 - Mongo DB
 - Strip
--https://cdnjs.com/
+- https://cdnjs.com/
+- React Router
+
 
