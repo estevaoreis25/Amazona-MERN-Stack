@@ -1,0 +1,23 @@
+{
+  "name": "amazona-mern-stack",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "## Technologies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/estevaoreis25/Amazona-MERN-Stack.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/estevaoreis25/Amazona-MERN-Stack/issues"
+  },
+  "homepage": "https://github.com/estevaoreis25/Amazona-MERN-Stack#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
