@@ -2,6 +2,7 @@ import React from 'react';
 import HomeScreen from './screens/HomeScreen';
 import ProductScreen from './screens/ProductScreen'
 import { BrowserRouter, Route, Routes, Switch } from 'react-router-dom'
+import CartScreen from './screens/CartScreen';
 function App() {
   return (
     <BrowserRouter>
@@ -21,6 +22,7 @@ function App() {
           <Routes>
             <Route path="/product/:id" element={<ProductScreen />} />
             <Route path="/" element={<HomeScreen />} />
+            <Route path="/cart/:id" element={<CartScreen />} />
           </Routes>
         </main>
         <footer className='row center'>All right reserved</footer>
